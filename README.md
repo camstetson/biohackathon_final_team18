@@ -11,6 +11,7 @@ Current frontline treatments include managing symptoms by controlling seizures, 
 
 **Hypothesis**: Mutations or deletions in the maternally inherited UBE3A gene on chromosome 15 lead to the loss of functional UBE3A protein expression in neurons, resulting in the characteristic clinical features of Angelman syndrome.
 
+
 **Experimental Design**:
 
 **Title**: “Investigating the Relationship Between UBE3A Gene Mutations and Angelman Syndrome Phenotypes”
