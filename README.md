@@ -15,7 +15,7 @@ Current frontline treatments include managing symptoms by controlling seizures, 
 
 **Title**: “Investigating the Relationship Between UBE3A Gene Mutations and Angelman Syndrome Phenotypes”
 
-**Objective**: To determine if selective inhibition of the maternally inherited UBE3A gene leads to the development of phenotypes of Angelman syndrome. 
+**Objective**: To determine if selective mutation of the maternally inherited UBE3A gene leads to the development of phenotypes of Angelman syndrome. 
 
 **Methods**:  
 *Animal Model Generation*:  
