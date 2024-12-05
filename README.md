@@ -7,6 +7,9 @@ The primary gene involved in AS is UBE3A that encodes an E3 ubiquitin ligase, wh
 
 Current frontline treatments include managing symptoms by controlling seizures, addressing sleep disturbances, and behavioral interventions. There are many clinical trials currently ongoing, with significant studies including gene therapy aimed at either turning on the paternal chromosome’s gene or replacing the maternal gene, and utilizing antisense oligonucleotides to unsilence the paternal gene.
 
+# Task E
+There are many eQTL DNA polymorphisms that could alter the expression of UBE3A, with the most significant eQTL found at chr15:26243097. It is is a single nucleotide variation of a T>C and the tissue this affects is EBV-transformed lymphocytes which play a role in the immune system. The normalized effect size is 0.67 and the p-value is 4.0e-6. Another eQTL that could affect the expression of UBE3A is eQTL rs78680551. This DNA polymorphism results in a G>A in another single nucleotide varitation at chr15:25403287. This eQTL affects the skeletal muscle and has a p value of 2.2e-11 and a normalized effect size of 0.19. 
+
 # Task F
 
 **Hypothesis**: Mutations or deletions in the maternally inherited UBE3A gene on chromosome 15 lead to the loss of functional UBE3A protein expression in neurons, resulting in the characteristic clinical features of Angelman syndrome.  
