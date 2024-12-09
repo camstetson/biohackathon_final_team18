@@ -1,5 +1,5 @@
 Lucy Mulligan       Task B & C - background of angelman syndrome
-Cam Stetson         .
-Konnor McDowell     .
+Cam Stetson         Created GitHub repository & Task E - tissue specific eQTLs
+Konnor McDowell     Task D- Built PPI
 Lily Harshaw        Task F - hypothesis and experimental design
-Blessing Torsu      .
+Blessing Torsu      Task G- hedlped writing the report 
